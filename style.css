@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 72, 0);
+    margin: 2px;
+    border: 20px;
+    border-color: #e22b77;
+    border-style: dotted;
+    padding: 10px;
+}
+
+h1 {
+    color: darkturquoise;
+    text-align: center;
+
+
+    .experiencia{
+        text-align: right: 
+    }
+    #enderoco{
+        text-align: center;
+    }
+}
